@@ -1,25 +1,5 @@
 <!-- Introduction -->
-<p align="center">
-  <img alt="Introduction" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=30&duration=3000&pause=1000&color=42F7D7&center=true&vCenter=true&width=435&lines=Hello+%F0%9F%91%8B;Ngô Minh Thuận.;I'm+22+years+old.;Welcome+to+my+GitHub;IUH+(●'◡'●)"/>
-</p>
 
-<!-- Visitors Counter -->
-<p align="center">
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=ThanhHiep25&label=Visitors&color=orange&style=for-the-badge"/>
-</p>
-
-<!-- Social Media -->
-<p align="center">Contact me</p>
-<div align="center">
-  <a href="https://github.com/ThanhHiep25" target="_blank" rel="noreferrer noopener">
-    <img alt="GitHub" src="https://img.shields.io/badge/@NguyenHiep-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" rel="noreferrer noopener">
-    <img alt="Email" src="https://img.shields.io/badge/@NguyenHiep-100000?style=for-the-badge&logo=gmail&logoColor=red"/>
-  </a>
-</div>
-
-<hr/>
 
 <!-- GitHub Statistics -->
 <div align="center">
