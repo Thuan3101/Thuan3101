@@ -27,7 +27,7 @@ I'm passionate about technology, coding, and creating innovative solutions.
 ## 🌐 Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/882492726380199997) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100027450457650)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100027450457650)  &nbsp;&nbsp;&nbsp;&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bapnune?igsh=Zm1tMWgxb3Fkdm9w&utm_source=qr)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bapnu3101)
 
@@ -40,12 +40,12 @@ I'm passionate about technology, coding, and creating innovative solutions.
 
 
 ![GitHub Heatmap](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thuan3101&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thuan3101&layout=compact&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api?username=Thuan3101&theme=radical&hide_border=false&include_all_commits=true&count_private=true) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Thuan3101&theme=radical&hide_border=false)<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thuan3101&layout=compact&theme=radical)
+
 
 
 
