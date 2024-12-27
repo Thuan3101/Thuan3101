@@ -1,35 +1,29 @@
 name: Generate Snake
 
-# Trigger the workflow on push to the main branch
 on:
   push:
     branches:
       - main
-  # Allows you to run the workflow manually
-  workflow_dispatch:
 
 jobs:
-  generate-snake:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      # Checkout the repository
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v2
 
-      # Generate the Snake animation
-      - name: Generate Snake animation
+      - name: Generate Snake
         uses: Platane/snk@v2
         with:
-          github_user_name: Thuan3101  # Replace with your GitHub username
+          github_user_name: Thuan3101  # Đảm bảo rằng tên người dùng GitHub là chính xác
           outputs: dist
 
-      # Commit and push the generated animation to the output branch
-      - name: Push Snake animation
+      - name: Remove Generated Files
         run: |
-          mkdir -p output
-          mv dist/github-contribution-grid-snake.svg output/
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add output/github-contribution-grid-snake.svg
-          git commit -m "Generated Snake animation"
+          rm -rf dist  # Xóa thư mục dist và các tệp bên trong
+
+      - name: Commit and Push (Optional)
+        run: |
+          git add -u  # Đảm bảo chỉ thêm các thay đổi đã xóa
+          git commit -m "Removed generated snake files"
           git push
