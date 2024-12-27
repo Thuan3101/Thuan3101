@@ -51,7 +51,7 @@ I'm passionate about technology, coding, and creating innovative solutions.
 
 
 
-# Hiển thị các chỉ số nổi bật về repo của bạn, như sao, fork, hoặc lượt xem.
+# Displays prominent metrics about your repo, like stars, forks, or views.
 ![GitHub Repo Stats](https://github-profile-trophy.vercel.app/?username=Thuan3101&theme=radical&no-frame=true)
 
 
