@@ -12,9 +12,12 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Generate Snake
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
           github_user_name: Thuan3101  # Đảm bảo rằng tên người dùng GitHub là chính xác
-          outputs: dist
-      - name: Output Snake
-        run: git add dist && git commit -m "Generated snake" && git push
+          outputs: dist/snake.svg
+      - name: Commit and Push
+        run: |
+          git add dist
+          git commit -m "Generated snake"
+          git push
